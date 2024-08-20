@@ -3,6 +3,8 @@ Project during the course ES 116 - Principals and Applications of Electrical Eng
 
 Instructor - [Prof. Arup Lal Chakraborty](https://iitgn.ac.in/hi/faculty/ee/fac-arup)
 
+Full Project Report [`EE Project Report.pdf`](https://github.com/Reckadon/ES116-ResponsiveLightingSystem/blob/main/EE%20Project%20Report.pdf)
+
 ---
 
 ## Aim of the Project
