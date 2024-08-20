@@ -1,5 +1,6 @@
 # Info
 Project during the course ES 116 - Principals and Applications of Electrical Engineering
+
 Instructor - [Prof. Arup Lal Chakraborty](https://iitgn.ac.in/hi/faculty/ee/fac-arup)
 
 ---
